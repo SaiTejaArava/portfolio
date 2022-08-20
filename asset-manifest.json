@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d6531f95.css",
+    "main.js": "/static/js/main.c96361b9.js",
+    "static/media/maskPhoto.png": "/static/media/maskPhoto.81b2690abe9ac0942763.png",
+    "static/media/CV.pdf": "/static/media/CV.9b8c39daab7d5fa7b3b8.pdf",
+    "static/media/keep.png": "/static/media/keep.3f4f26e56640794a0e1b.png",
+    "static/media/sql-logo.png": "/static/media/sql-logo.2f2f97eb89e87762b9b6.png",
+    "static/media/css-logo.png": "/static/media/css-logo.19c8605d6b2861f5fbe0.png",
+    "static/media/blog.png": "/static/media/blog.22e732a843014223ac8e.png",
+    "static/media/cpp-logo.png": "/static/media/cpp-logo.c12264c66340b4534bd6.png",
+    "static/media/flap.png": "/static/media/flap.44c2905cf6b00516238c.png",
+    "static/media/logo.png": "/static/media/logo.86c1129a44e6565ae770.png",
+    "static/media/js-logo.png": "/static/media/js-logo.166865dacb77d214f485.png",
+    "static/media/todo.png": "/static/media/todo.9d0da1fbc2cb317dd792.png",
+    "static/media/mdb-logo.png": "/static/media/mdb-logo.70c82e5ad6bbb2533be4.png",
+    "static/media/node-logo.png": "/static/media/node-logo.e71346fe0fec16ec5f6e.png",
+    "static/media/java-logo.png": "/static/media/java-logo.2e94a0e9c57c6860a18e.png",
+    "static/media/simon.png": "/static/media/simon.8740996341bc86ca49aa.png",
+    "static/media/wave.png": "/static/media/wave.544bd099d8bef7550000.png",
+    "static/media/linux-logo.png": "/static/media/linux-logo.8d6fd248e108a6584003.png",
+    "static/media/html-logo.png": "/static/media/html-logo.5b7a98b2b47e530122c0.png",
+    "index.html": "/index.html",
+    "main.d6531f95.css.map": "/static/css/main.d6531f95.css.map",
+    "main.c96361b9.js.map": "/static/js/main.c96361b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6531f95.css",
+    "static/js/main.c96361b9.js"
+  ]
+}
